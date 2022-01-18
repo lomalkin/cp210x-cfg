@@ -27,7 +27,7 @@ echo 0000 0000 | sudo tee /sys/bus/usb-serial/drivers/cp210x/new_id
 Consider yourself forewarned, and forearmed.
 
 ## Examples
-####Showing the built-in help message (may differ from below)
+#### Showing the built-in help message (may differ from below)
 ```
 $ ./cp210x-cfg -h
 Syntax:
